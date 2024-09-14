@@ -2,7 +2,7 @@
 
 ## ![About Me Icon](./assets/sh.gif) About Me:
 
-- 🔭 I’m currently working on **RecipeQuest**
+- 🔭 I’m currently working on **RecipeQuest(App)**
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me: **haridevm84@gmail.com**
 
