@@ -53,6 +53,7 @@
 ## ![GitHub Stats Icon](./assets/metor.gif) GitHub Stats:
 
 <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Haridev21&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Haridev21 GitHub Stats" width="400"/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haridev21&theme=radical&hide_border=false" alt="Haridev21 Streak Stats" width="460"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haridev21&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Haridev21 Top Languages" width="350"/>
 </p>
